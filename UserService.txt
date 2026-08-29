@@ -1,2 +1,4 @@
 "This is the page realated to the user service"
 process tha data
+create an avatar for the user
+hello
