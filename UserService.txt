@@ -1,1 +1,1 @@
-Get the user data..
+"This is the page realated to the user service"
